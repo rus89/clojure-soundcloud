@@ -31,6 +31,6 @@ After you have installed necessary dependencies, follow steps below to run the p
 
 ## License
 
-Copyright © 2013 FIXME
+Copyright © 2013
 
 Distributed under the Eclipse Public License, the same as Clojure.
