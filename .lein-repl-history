@@ -1,0 +1,4 @@
+(use 'hicory.core)
+(use 'hickory.core)
+(require '[hiccup-bridge.core :as hicv])
+exit
