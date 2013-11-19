@@ -18,15 +18,19 @@ It's necessary to install Leiningen. On http://leiningen.org/ you can fond all i
 After you have installed necessary dependencies, follow steps below to run the project:
 
 * Start MongoDB: (http://docs.mongodb.org/manual/tutorial/install-mongodb-on-windows/)
+
 `mongodb\bin\mongod.exe --dbpath c:\path\to\your\databse\folder`
+
 `mongodb\bin\mongo.exe`
 
 * Start application:
+ 
 `navigate to project root folder (cd path/to/root/folder)`
+
 `lein run`
 
 ## License
 
-Copyright © 2013 FIXME
+Copyright © 2013
 
 Distributed under the Eclipse Public License, the same as Clojure.
